@@ -18,6 +18,6 @@ count++;
 }
 }
 }
-System.out.println("count:"+count);
+System.out.println("count:"+count*2);
 }
 }
