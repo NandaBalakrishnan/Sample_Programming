@@ -14,6 +14,6 @@ no[i]=sc.nextInt();
 sum+=no[i];
 }
 avg=sum/n;
-System.out.println("average:"+avg);
+System.out.println("Average:"+avg);
 }
 }
